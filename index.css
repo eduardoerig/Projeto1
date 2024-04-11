@@ -46,16 +46,6 @@ h2{
      margin: 0 10px;
  }
 
- footer {
-     background-color: #c5a206;
-     color: #fff;
-     text-align: center;
-     padding: 10px;
-     position: static;
-     bottom: 0;
-     width: 100%;
- }
-
  a {
      color: #fff;
      text-decoration: none;
@@ -100,4 +90,51 @@ padding: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.indexfooter {
+    background-color: #c5a206;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.footergaleria{
+        background-color: #c5a206;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px;
+        position:fixed;
+        bottom: 0;      
+        width: 100%;    
+}
+
+.melhorfooter { 
+    background-color: #c5a206;  
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed   ;
+    bottom: 0;
+    width: 100%;
+}
+.enderecofooter {
+    background-color: #c5a206;
+    color: #fff;    
+    text-align: center;
+    padding: 10px;
+    position: static   ;
+    bottom: 0;
+    width: 100%;
+}
+.contatofooter {
+    background-color: #c5a206;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: static   ;
+    bottom: 0;
+    width: 100%;
 }
